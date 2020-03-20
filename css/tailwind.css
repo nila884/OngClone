@@ -1,0 +1,60 @@
+
+@tailwind base;
+
+.body_color{
+  background-color: #F8F6EC;
+}
+
+.opac_pic_height{
+  height: 300px;
+}
+.opac_back{
+  background-color:rgba(72, 64, 60, 0.777);
+}
+.bg_image{
+  background-image: url("../images/impact3.jpg");
+}
+.section_un{
+  background-color: #ECEBE8;
+}
+.text_color_title{
+  color: #48403C;
+}
+.text_color{
+  color:#6D635D;
+}
+.logo_color{
+  color: #238189;
+}
+.text_cont{
+  background-color: #FF674D;
+}
+
+.text_col_body{
+  color: #F8F6EC;
+}
+.text_color_n{
+  color: #48403C;
+}.header_cont{
+  background: #F8F6EC;
+}
+.back_col{
+  background-color:#238189;
+}
+.temoi_cont{
+background: #F8F6EC;
+box-shadow: 4px 4px 61px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+width: 500px ;
+height:100px ;
+color: #48403C;
+}
+
+.text_cont_desc{
+  box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+border-radius: 10px;
+}
+
+@tailwind components;
+
+@tailwind utilities;
